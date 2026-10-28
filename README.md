@@ -1,4 +1,4 @@
-# Support Ticket Triage
+# About
 
 A small end-to-end Python machine-learning service that suggests a support queue for a customer message and flags low-scoring predictions for human review. Includes a browser demo, REST API, reproducible training, held-out evaluation, tests, and container deployment configuration.
 
