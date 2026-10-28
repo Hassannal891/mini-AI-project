@@ -1,0 +1,81 @@
+text,label
+I was charged twice for the same invoice,billing
+My credit card shows an unexpected charge,billing
+Please send me a copy of my invoice,billing
+The payment failed when I tried to pay,billing
+I need a refund for an incorrect charge,billing
+Why did my monthly bill increase,billing
+Can you update my billing address,billing
+My payment was declined by your system,billing
+The invoice total is wrong,billing
+I paid but the invoice still says unpaid,billing
+There is a duplicate payment on my bank statement,billing
+How do I change the card used for billing,billing
+I need a receipt for my last payment,billing
+My subscription price does not match the bill,billing
+A refund has not arrived in my bank account,billing
+The discount was missing from my invoice,billing
+Please explain the tax on my bill,billing
+Your service charged my old credit card,billing
+I was billed after paying the annual fee,billing
+Can I pay this invoice by bank transfer,billing
+I forgot my password and cannot log in,account
+The password reset email never arrived,account
+My account is locked after login attempts,account
+I cannot sign in with my email address,account
+How can I change my account password,account
+The two factor authentication code is invalid,account
+I lost access to my authenticator app,account
+Please help me recover my account,account
+I need to update my login email,account
+My verification code has expired,account
+I cannot access my account after changing phones,account
+The sign in page rejects my password,account
+Someone else logged into my account,account
+How do I enable two factor authentication,account
+My reset link is no longer valid,account
+I am locked out of my profile,account
+Please resend the account verification email,account
+I want to change the email on my profile,account
+My login credentials are not recognized,account
+I cannot sign in using single sign on,account
+I want to cancel my subscription,cancellation
+Please stop renewing my plan,cancellation
+How do I close my membership,cancellation
+I no longer need the service please cancel,cancellation
+Please turn off automatic renewal,cancellation
+End my subscription at the end of the month,cancellation
+I want to terminate my paid plan,cancellation
+Where is the cancel subscription button,cancellation
+Do not renew my annual membership,cancellation
+Please cancel my free trial before it renews,cancellation
+I would like to unsubscribe from the paid service,cancellation
+Can you end my membership today,cancellation
+I wish to stop my subscription permanently,cancellation
+Please confirm that my cancellation went through,cancellation
+How do I disable renewal for this plan,cancellation
+I am leaving the service and want to cancel,cancellation
+Terminate my membership after this period,cancellation
+Please close my subscription immediately,cancellation
+I do not want to continue my paid plan,cancellation
+I need help cancelling my trial,cancellation
+The app crashes when I open the dashboard,technical
+The page stays blank after loading,technical
+I get a server error when uploading a file,technical
+The export feature is not working,technical
+The website is very slow today,technical
+The mobile app freezes on startup,technical
+My dashboard does not load any data,technical
+The upload button does nothing,technical
+I see an error when saving my changes,technical
+The application keeps crashing on my phone,technical
+The search function returns an error,technical
+The report download is broken,technical
+The screen is stuck on a loading spinner,technical
+The API returns a server error,technical
+My files fail to sync between devices,technical
+The app displays a blank screen,technical
+The dashboard chart is not rendering,technical
+The website times out when opening reports,technical
+I cannot upload a document because of an error,technical
+The save button stopped working after the update,technical

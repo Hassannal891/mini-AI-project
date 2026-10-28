@@ -1,0 +1,99 @@
+{
+  "model_version": "tfidf-logreg-v1-039069e51cdf",
+  "sklearn_version": "1.9.1",
+  "data_type": "synthetic demonstration; not real-world performance",
+  "train_count": 80,
+  "test_count": 24,
+  "train_sha256": "039069e51cdfac674f2b8676c6bbf617651f0330ac66c988e9b37d037e8fd5de",
+  "test_sha256": "fefa710bd6afffb7bb6adcdf60dc5bc39bc7a564a1b8018dc8d160b7c0ade5cc",
+  "accuracy": 0.9166666666666666,
+  "macro_f1": 0.9163752913752914,
+  "baseline_accuracy": 0.25,
+  "baseline_macro_f1": 0.1,
+  "threshold": 0.55,
+  "automation_coverage": 0.5,
+  "accepted_accuracy": 1.0,
+  "labels": [
+    "account",
+    "billing",
+    "cancellation",
+    "technical"
+  ],
+  "confusion_matrix": [
+    [
+      6,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      5,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      6,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      5
+    ]
+  ],
+  "per_class": {
+    "account": {
+      "precision": 0.8571428571428571,
+      "recall": 1.0,
+      "f1-score": 0.9230769230769231,
+      "support": 6.0
+    },
+    "billing": {
+      "precision": 1.0,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.9090909090909091,
+      "support": 6.0
+    },
+    "cancellation": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 6.0
+    },
+    "technical": {
+      "precision": 0.8333333333333334,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.8333333333333334,
+      "support": 6.0
+    },
+    "accuracy": 0.9166666666666666,
+    "macro avg": {
+      "precision": 0.9226190476190477,
+      "recall": 0.9166666666666667,
+      "f1-score": 0.9163752913752914,
+      "support": 24.0
+    },
+    "weighted avg": {
+      "precision": 0.9226190476190476,
+      "recall": 0.9166666666666666,
+      "f1-score": 0.9163752913752914,
+      "support": 24.0
+    }
+  },
+  "errors": [
+    {
+      "text": "The amount on this receipt is incorrect",
+      "expected": "billing",
+      "predicted": "technical"
+    },
+    {
+      "text": "My documents are failing to sync",
+      "expected": "technical",
+      "predicted": "account"
+    }
+  ]
+}

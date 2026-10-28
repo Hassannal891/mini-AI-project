@@ -1,0 +1,25 @@
+text,label
+There are two charges for one purchase on my card,billing
+Could you provide an invoice for last month,billing
+The refund you promised is still missing,billing
+My bill includes a fee I do not recognize,billing
+I need to replace my payment card,billing
+The amount on this receipt is incorrect,billing
+I forgot the password to my profile,account
+Your reset email is not in my inbox,account
+My authentication code does not let me sign in,account
+I have been locked out of the account,account
+Please help change my login address,account
+My new phone has no authenticator access,account
+Cancel the membership before next month,cancellation
+I would like to end the trial now,cancellation
+Stop automatic renewal on my subscription,cancellation
+Please terminate the service for me,cancellation
+Where can I unsubscribe from this plan,cancellation
+I do not want my membership to renew again,cancellation
+Uploading a photo makes the application crash,technical
+The dashboard is stuck and will not load,technical
+Exporting my report gives an error,technical
+Nothing happens when I press save,technical
+The site is slow and times out,technical
+My documents are failing to sync,technical
